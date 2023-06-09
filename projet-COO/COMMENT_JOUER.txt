@@ -1,0 +1,6 @@
+
+Les fichiers étant déjà compiler il y a juste à utiliser la commande :  ./app 
+
+Sinon faire :  make clean
+               make
+               ./app
