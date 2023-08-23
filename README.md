@@ -30,3 +30,13 @@ The project-COO file and the .tar.gz archive contain the code of the labyrinth. 
 - make clean
 - make
 - ./app
+
+## Pictures
+
+### Menu
+
+![Image](https://github.com/FreeZ77R/Labyrinthe-C-/blob/main/pictures/menu.png) 
+
+### Game
+
+![Image](https://github.com/FreeZ77R/Labyrinthe-C-/blob/main/pictures/game.png)
