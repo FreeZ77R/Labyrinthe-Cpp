@@ -1,6 +1,6 @@
-# Labyrinthe C++
+## Labyrinthe C++
 
-
+# Project information 
 
 This involves programming in C++ the creation and graphical visualization of a labyrinth
 which a user must exit from an initial position to a final position
@@ -17,3 +17,11 @@ The following resources will be helpful:
 
 Remember to implement the notion of graph as indicated by the first url.
 The project is not frozen, you can bring all the extensions you want.
+
+# Using it
+
+The project-COO file and the .tar.gz archive contain the code of the labyrinth. Once downloaded you are moved to the main project folder and then used the following commands to recompile the files: 
+
+ make clean
+ make
+ ./app
