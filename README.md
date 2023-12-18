@@ -7,7 +7,7 @@ which a user must exit from an initial position to a final position
 output. For the GUI, you will use the Gtkmm library. The user
 will move through the maze using the 4 arrows on the computer keyboard.
 You will propose several mazes of variable sizes built automatically.
-The automatic generation of mazes will necessarily follow two algorithms: Fu-
+The automatic generation of mazes will necessarily follow two algorithms: Fusion
 and Aldous-Broder, presented in the resources given below.
 The following resources will be helpful:
 
